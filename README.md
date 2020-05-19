@@ -1,1 +1,1 @@
-# deck.github.io
+# http://deck.github.io
